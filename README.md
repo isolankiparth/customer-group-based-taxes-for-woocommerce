@@ -1,1 +1,1 @@
-# customer-group-based-taxes-for-woocommerce
+# Customer Group based taxes for WooCommerce
